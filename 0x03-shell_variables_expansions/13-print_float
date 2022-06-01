@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e {a..n,p..z}{a..z}"\n"
+printf "%0.2f\n" $NUM
